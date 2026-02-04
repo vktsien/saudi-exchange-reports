@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1770193896886" clover="3.2.0">
-  <project timestamp="1770193896887" name="All files">
+<coverage generated="1770194666248" clover="3.2.0">
+  <project timestamp="1770194666248" name="All files">
     <metrics statements="298" coveredstatements="118" conditionals="111" coveredconditionals="44" methods="49" coveredmethods="30" elements="458" coveredelements="192" complexity="0" loc="298" ncloc="298" packages="1" files="4" classes="4"/>
     <file name="broker-report-generator.ts" path="/home/ubuntu/saudi-exchange-reports/skills/saudi-exchange/scripts/broker-report-generator.ts">
       <metrics statements="88" coveredstatements="81" conditionals="51" coveredconditionals="41" methods="18" coveredmethods="18"/>
